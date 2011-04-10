@@ -1,0 +1,4 @@
+A formalization of the famous pumping lemma for regular languages in Coq.
+
+Author: Wojciech Jedynak
+Date: 9-10.04.2011
